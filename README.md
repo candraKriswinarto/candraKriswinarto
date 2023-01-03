@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://i.gifer.com/7SvE.gif" alt="candrakriswinarto" /> </p>
 <h1 align="center">Hi 👋, I'm Candra Kriswinarto</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
@@ -24,7 +25,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/canddev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="canddev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=candrakriswinarto&show_icons=true&locale=en&layout=compact" alt="candrakriswinarto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=candrakriswinarto&show_icons=true&locale=en&layout=compact" alt="candrakriswinarto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=candrakriswinarto&show_icons=true&locale=en" alt="candrakriswinarto" /></p>
 
