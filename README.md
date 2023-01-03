@@ -1,6 +1,5 @@
-<p align="center"> <img src="https://i.gifer.com/7SvE.gif" alt="candrakriswinarto" /> </p>
 <h1 align="center">Hi 👋, I'm Candra Kriswinarto</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">Passionate front-end developer with a focus on HTML, CSS, JavaScript, and React. Check out my YouTube content for more on these topics!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=candrakriswinarto&label=Profile%20views&color=0e75b6&style=flat" alt="candrakriswinarto" /> </p>
 
