@@ -11,10 +11,8 @@
 
 - 📫 How to reach me **ckriswinarto@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Subscribe 😁</h3>
 <p align="left">
-<a href="https://linkedin.com/in/candra-kriswinarto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="candra-kriswinarto" height="30" width="40" /></a>
-<a href="https://instagram.com/candra_kriswinarto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="candra_kriswinarto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/canddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="canddev" height="30" width="40" /></a>
 </p>
 
