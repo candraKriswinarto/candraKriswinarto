@@ -36,11 +36,11 @@ Express • Prisma • PostgreSQL • Supabase
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=candrakriswinarto&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=candrakriswinarto&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" 
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=candrakriswinarto&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=candrakriswinarto&layout=compact&theme=tokyonight" 
     height="165"
   />
 </p>
