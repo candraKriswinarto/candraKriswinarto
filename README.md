@@ -35,10 +35,15 @@ Express • Prisma • PostgreSQL • Supabase
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candrakriswinarto&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candrakriswinarto&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=candrakriswinarto&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=candrakriswinarto&layout=compact&theme=tokyonight" 
+    height="165"
+  />
 </p>
-
 ---
 
 <p align="center">
